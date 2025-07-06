@@ -25,6 +25,8 @@ root.resizable(False, False)
 
 main_frame = tk.Frame(root, padx=20, pady=10)
 main_frame.pack(fill='both', expand=True)
+tk.Label(main_frame, text="GỬI TIN NHẮN BẢO MẬT", font=("Helvetica", 16, "bold")).pack()
+tk.Label(main_frame, text="DES-CFB & Xác thực RSA 2048", font=("Helvetica", 10)).pack()
 
 status_label = tk.Label(root, text="Sẵn sàng", fg="blue")
 status_label.pack(pady=5)
