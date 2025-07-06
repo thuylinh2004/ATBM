@@ -38,12 +38,12 @@
 
 ### ⚡ Sơ đồ hệ thống
 
-<img src="anh/sodo.png" alt="Sơ đồ" width="800"/>
+<img src="anh/sodo.png" alt="Sơ đồ" width="300"/>
 
 ### ⚡ Giao diện terminal
 
-<img src="anh/giaodiengui.png" alt="Giao diện gửi" width="800"/>
-<img src="anh/giaodiennhận.png" alt="Giao diện nhận" width="800"/>
+<img src="anh/giaodiengui.png" alt="Giao diện gửi" width="500"/>
+<img src="anh/giaodiennhan.png" alt="Giao diện nhận" width="500"/>
 
 ---
 
