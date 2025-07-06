@@ -38,12 +38,12 @@
 
 ### ⚡ Sơ đồ hệ thống
 
-![Sơ đồ bảo mật tin nhắn](link_anh_so_do)
+<img src="anh/sodo.png" alt="Sơ đồ" width="800"/>
 
 ### ⚡ Giao diện terminal
 
-![Giao diện gửi]()
-![Giao diện nhận]()
+<img src="anh/giaodiengui.png" alt="Giao diện gửi" width="800"/>
+<img src="anh/giaodiennhận.png" alt="Giao diện nhận" width="800"/>
 
 ---
 
@@ -83,5 +83,4 @@ python client.py
 - **Lớp:** CNTT16-05
 - **Môn:** An toàn và Bảo mật thông tin
 - **GVHD:** Trần Đức Thắng
-
 
